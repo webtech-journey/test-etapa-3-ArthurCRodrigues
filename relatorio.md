@@ -1,8 +1,8 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - ArthurCRodrigues
 
-**Data:** 09/04/2025 12:10
+**Data:** 09/04/2025 12:20
 
-**Nota Final:** `67.14/100`
+**Nota Final:** `0.00/100`
 **Status:** ❌ Reprovado
 
 ---
