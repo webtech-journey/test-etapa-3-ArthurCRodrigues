@@ -1,9 +1,9 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - ArthurCRodrigues
 
-**Data:** 09/04/2025 11:01
+**Data:** 09/04/2025 11:24
 
-**Nota Final:** `29.56/100`
-**Status:** ❌ Reprovado
+**Nota Final:** `71.43/100`
+**Status:** ✅ Aprovado
 
 ---
 ## ✅ Requisitos Obrigatórios (80%)
@@ -13,9 +13,7 @@
 - Nenhum item bônus foi identificado. Tente adicionar mais estilo e complexidade ao seu código nas próximas tentativas!
 
 ## ❌ Problemas Detectados (Descontos de até -30%)
-- Foram encontrados `3` problemas que acarretam descontos. Veja abaixo os testes penalizados:
-  - ⚠️ **Falhou no teste de penalidade**: `test_penalty.py::test_missing_required_tags`
-    - **Correção sugerida**: Algumas tags obrigatórias estão ausentes, lembre-se de utilizar as tags <div>,<li> e <ul>
+- Nenhuma infração grave foi detectada. Muito bom nesse aspecto!
 
 ---
 Continue praticando e caprichando no código. Cada detalhe conta! 💪
